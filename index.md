@@ -7,7 +7,7 @@ title: About Jamie Wilcox
 <img src="/images/NicePhoto2.png" height="250" align="left" style="margin-right: 20px"/>
 <br>
 
-I am an <b>AI Professional<b> who is passionate about using data to solve complex problems, power decision-making, and empower the next generation of data scientists.
+I am an <b>AI Professional<b> who is passionate about using data to solve complex problems, promoting data-driven decision-making, and empowering the next generation of data scientists.
 
 <!-- 
 and my goal is to use data to improve lives. 
