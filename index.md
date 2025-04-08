@@ -31,4 +31,4 @@ I am especially passionate about pedagogy and education technology, and I have e
 	* Built a rainwater harvesting system for a school in Guatemala through Engineers Without Borders.
 	* I put my own spin on a classic [classroom puzzle](/2017/06/25/mysterytubes/) to teach troubleshooting and the scientific method.
 	* I love to knit and [spin yarn](https://www.quora.com/Is-the-spindle-of-a-spinning-wheel-really-as-sharp-as-it-is-in-Sleeping-Beauty/answer/Jamie-Wilcox-17).
-* See more on my <a href="https://www.linkedin.com/in/jamianne-wilcox/">Linkedin</a>.
+* See more on my <a href="https://www.linkedin.com/in/jamianne-wilcox/">Linkedin</a>. 
