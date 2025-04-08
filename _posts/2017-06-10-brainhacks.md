@@ -45,7 +45,7 @@ I attempted to make the class as active as possible by designing activities for 
 
 My most successful lessons were
 - The Anti-Debate: students identified cognitive biases by coming up with their own biased arguments, then trying to trick their classmates
-- Mystery Tubes: students practiced making models and testing hypotheses with a devious classroom puzzle
+- [Mystery Tubes](https://jamiannewilcox.github.io/2017/06/25/mysterytubes/): students practiced making models and testing hypotheses with a devious classroom puzzle
 - Law of Small Numbers: students experienced how statistics mislead when there is not enough data, by sampling colored candies
 
 ## Improving my teaching
